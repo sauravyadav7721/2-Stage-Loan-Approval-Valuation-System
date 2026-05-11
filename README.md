@@ -1,4 +1,3 @@
-````md
 # 💰 Two-Stage Loan Approval & Loan Amount Prediction System
 
 <p align="center">
@@ -16,32 +15,37 @@ This project is an **End-to-End Machine Learning Application** that uses a **Two
 The application performs:
 
 ### ✅ Stage 1 — Loan Approval Prediction
+
 Predicts whether a loan applicant should be:
-- Approved
-- Rejected
+
+* Approved
+* Rejected
 
 ### ✅ Stage 2 — Loan Amount Prediction
+
 If the applicant is approved, the system predicts:
-- Estimated loan amount
+
+* Estimated loan amount
 
 This project demonstrates:
-- Machine Learning workflows
-- Classification & Regression models
-- Model deployment using Streamlit
-- End-to-End ML pipeline implementation
+
+* Machine Learning workflows
+* Classification & Regression models
+* Model deployment using Streamlit
+* End-to-End ML pipeline implementation
 
 ---
 
 # 🚀 Features
 
-- ✅ Two-stage ML pipeline
-- ✅ Loan approval classification model
-- ✅ Loan amount regression model
-- ✅ Interactive Streamlit web application
-- ✅ Config-based runtime management
-- ✅ Modular project structure
-- ✅ CLI support
-- ✅ UV package management support
+* ✅ Two-stage ML pipeline
+* ✅ Loan approval classification model
+* ✅ Loan amount regression model
+* ✅ Interactive Streamlit web application
+* ✅ Config-based runtime management
+* ✅ Modular project structure
+* ✅ CLI support
+* ✅ UV package management support
 
 ---
 
@@ -50,46 +54,55 @@ This project demonstrates:
 ## 🔹 Stage 1 — Classification Model
 
 The first ML model predicts:
-- Loan Approved → Yes
-- Loan Approved → No
+
+* Loan Approved → Yes
+* Loan Approved → No
 
 ### Classification Problem
+
 Possible algorithms:
-- Logistic Regression
-- Random Forest Classifier
-- XGBoost
-- Decision Tree
+
+* Logistic Regression
+* Random Forest Classifier
+* XGBoost
+* Decision Tree
 
 ---
 
 ## 🔹 Stage 2 — Regression Model
 
 If the applicant is approved, the second ML model predicts:
-- Loan Amount
+
+* Loan Amount
 
 ### Regression Problem
+
 Possible algorithms:
-- Linear Regression
-- Random Forest Regressor
-- XGBoost Regressor
+
+* Linear Regression
+* Random Forest Regressor
+* XGBoost Regressor
 
 ---
 
 # 🛠️ Tech Stack
 
 ## 💻 Programming & Frameworks
-- Python 3.12
-- Streamlit
+
+* Python 3.12
+* Streamlit
 
 ## 📊 Machine Learning Libraries
-- Scikit-learn
-- Pandas
-- NumPy
-- Joblib / Pickle
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Joblib / Pickle
 
 ## ⚙️ Tools
-- UV Package Manager
-- Git & GitHub
+
+* UV Package Manager
+* Git & GitHub
 
 ---
 
@@ -109,7 +122,7 @@ Possible algorithms:
 ├── README.md                   # Project Documentation
 │
 └── notebooks/                  # Jupyter notebooks (optional)
-````
+```
 
 ---
 
@@ -278,6 +291,7 @@ This project demonstrates understanding of:
 
 https://github.com/sauravyadav7721/2-Stage-Loan-Approval-Valuation-System
 
+---
 
 # 👨‍💻 Author
 
@@ -293,4 +307,3 @@ Data Science Student | ML & AI Enthusiast
 <p align="center">
   ⭐ If you found this project useful, consider giving it a star!
 </p>
-```
